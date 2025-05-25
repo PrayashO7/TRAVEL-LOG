@@ -137,12 +137,7 @@ Contributions are what make the open source community such an amazing place to b
 5. Open a Pull Request
 
 
-<!-- CONTACT -->
-## Contact
 
-Swaranjana Nayak - [@LinkedIn](https://www.linkedin.com/in/swaranjana-nayak/) - swaranjananayak@gmail.com
-
-Project Link: [https://github.com/sn2606/TravelLog](https://github.com/sn2606/TravelLog)
 
 
 
